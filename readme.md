@@ -33,7 +33,6 @@ respective GitHub repos into Canvas.
 
 [![Click to Start Assignment](module_content/images/start.png)](https://classroom.github.com/a/xTaOHU_V)
 
-
 # Development Workflow - General process
 
 1. Make a branch for each feature / change
