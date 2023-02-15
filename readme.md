@@ -115,3 +115,7 @@ respective GitHub repos into Canvas.
    rebuilding the dockerfile manually because of the volume share setup by the docker compose file.
 4. "npm run clean" Deletes anything in the public_html folder.
 
+## Eileen Sanchez Commits 
+
+1. Commit 1 -- Update readme.md file (edits1 branch)
+2. Commit 2 -- Update readme.md file (edits2 branch)
