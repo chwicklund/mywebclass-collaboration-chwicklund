@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
     master:
-      image: chwicklund/charles-test
+      image: chwicklund/charles-test:master
       deploy:
         replicas: 2
       pull_policy: always
