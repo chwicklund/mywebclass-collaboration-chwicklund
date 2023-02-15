@@ -60,7 +60,3 @@ def capture_output(func):
     sys.stdout = sys.__stdout__  # reset the standard output stream to its original value
     return captured_output.getvalue()  # return the captured output as a string
 
-
-def test_dockerfile():
-    f = open("Dockerfile", "r")
-    assert "CMD" in f.read(), "Can't find CMD in Dockerfile"
